@@ -1,0 +1,43 @@
+Prerequisites / precondition:
+-----------------------------------------------------------------------------------
+
+Asset Uploaded and Downloaded to the player
+Playlist should be available as per the Test coverage
+
+
+
+
+Configuration details
+-----------------------------------------------------------------------------------
+Configuration >>> Configs >>> Playlist_config >>> based on feed eg. thor
+
+Always_pick_asset_duration = Enable
+Always_pick_asset_som = Enable
+------------
+Configuration >>> Triggers >>> 
+
+scte35 should be configured for type(program)
+
+------------
+Configuration >>> Logos >>> Enable feed logo
+
+Channel logo should be enable
+------------
+Audio Tracks = 2
+
+
+
+Playlist
+-----------------------------------------------------------------------------------
+
+FileName-    SOM & DURATION = ENABLED.csv
+
+
+
+Test case coverage list
+----------------------------------------------------------------------------------
+DURATION_MISMATCH
+DURATION_MISMATCH
+FIXED_ASSET
+SOFT SEGMENT
+SOM(DURATION & SOM FROM PLAYLIST)
