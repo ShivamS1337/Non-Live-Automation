@@ -1,0 +1,13 @@
+2023-01-25,06:00:00,,CHANNEL NAME,utv,,,,,,,
+HOUR,DURATION,OFFSET,SEGMENT ID,ASSET ID,TYPE,MEDIA TYPE,TITLE,SUBTITLES,PARAMETERS,START TIME TYPE,COMMENTS
+12:07:00,03:00:00,,,show242hour,show-start,show,show242hour,,,fixed,
+,01:00:00:00,,1,NNVG4012_LegendoftheFist_Film_h26412sample11.mp4,media,primary,NNVG4012_LegendoftheFist_Film_h26412sample11.mp4,,,,
+,00:02:00:00,00:00:00:00,,Transform_effect_on_targa_wish,graphics,secondary,Transform_effect_on_targa_wish,,,,
+,00:20:00:00,00:00:00:00,1,NNVG4012_LegendoftheFist_Film_h26412sample11.mp4,media,primary,NNVG4012_LegendoftheFist_Film_h26412sample11.mp4,,,,
+,00:20:00:00,00:20:00:00,2,NNVG4012_LegendoftheFist_Film_h26412sample11.mp4,media,primary,NNVG4012_LegendoftheFist_Film_h26412sample11.mp4,,,,
+,00:20:00:00,00:40:00:00,3,NNVG4012_LegendoftheFist_Film_h26412sample11.mp4,media,primary,NNVG4012_LegendoftheFist_Film_h26412sample11.mp4,,,,
+,01:00:00,00:00:00,1,BREAK 1,break-start,,Break 1,,,,
+,01:00:00,,1,NNVG4012_LegendoftheFist_Film_h26412sample11.mp4,promo,primary,NNVG4012_LegendoftheFist_Film_h26412sample11.mp4,,,,
+,00:01:00,00:00:00,,AstonHD004v75123,graphics,secondary,AstonHD004v75123,,,,
+,00:00:00,00:00:00,1,BREAK 1,break-end,,Break 1,,fixed_duration=true,,
+,,,,,Show-end,,,,,,
