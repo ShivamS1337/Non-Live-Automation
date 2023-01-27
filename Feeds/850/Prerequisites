@@ -1,1 +1,32 @@
+Prerequisites / precondition:
+-----------------------------------------------------------------------------------
+
+Asset Uploaded and Downloaded to the player
+Playlist should be available as per the Test coverage
+
+
+
+
+Configuration details
+-----------------------------------------------------------------------------------
+Configuration >>>
+
+ CC, Hole_Management Playlist_config Pick_Asset_SOM & Duration = disable, SCTE35, Logo for Type - media, fade-in/out - program
+
+
+Playlist
+-----------------------------------------------------------------------------------
+
+FileName-    
+
+
+
+Test case coverage list
+----------------------------------------------------------------------------------
+
+
+
+
+
+
 
