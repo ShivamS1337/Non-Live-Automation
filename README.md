@@ -32,19 +32,33 @@ Audio Tracks = 8
 Test case coverage list
 ----------------------------------------------------------------------------------
 Duration_mismatch
+
 Hole Management
+
 Fixed_asset
+
 Soft Segment
+
 SOM(DURATION & SOM FROM PLAYLIST)
+
 Always Pick Asset Duration 
+
 Always Pick Asset SOM
+
 Dynamic Graphics
+
 Static Graphics
+
 Asrun report
+
 SCTE
+
 DST
+
 Subtitle
+
 Voiceover
+
 Break
 
 
