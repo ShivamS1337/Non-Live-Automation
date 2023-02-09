@@ -18,10 +18,13 @@ Always_pick_asset_som = Enable/disabled
 Configuration >>> Triggers >>> 
 
 scte35 should be configured for type(program)
+
 scte35 for all scenairos
 
 ------------
 Configuration >>> Logos >>> Enable feed logo
+
+Logo for type should be configured
 
 Channel logo should be enable
 
