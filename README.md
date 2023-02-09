@@ -24,6 +24,8 @@ scte35 for all scenairos
 Configuration >>> Logos >>> Enable feed logo
 
 Channel logo should be enable
+
+Audio Tracks
 ------------
 Audio Tracks = 8
 
